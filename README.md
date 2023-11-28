@@ -29,7 +29,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/riek10/osTicket---Post-Install-Configuration/assets/113129662/e1a7e145-af1b-4079-b135-ebabe2181f6c" height="80%" width="80%"/>
 </p>
 <p>
-After completing the installtion and base configuration of OsTicket i decided to document a brief tutorial setting up ticketing agents/users/and departments. First i configured the roles of my admin users to a Supreme Admin basically allowing all permissions to create,delete,edit, and resolve all tickets and issues among employees and end users.  
+After completing the installtion and base configuration of OsTicket i decided to document a brief tutorial setting up ticketing agents/users/and departments. First i configured the roles of my admin users and set them to Supreme Admin basically allowing all permissions to create,delete,edit, and resolve all tickets and issues among employees and end users.  
 </p>
 <br />
 
@@ -37,7 +37,7 @@ After completing the installtion and base configuration of OsTicket i decided to
 <img src="https://github.com/riek10/osTicket---Post-Install-Configuration/assets/113129662/bdd08e29-3235-4bb3-a5f1-173b161c101b" height="80%" width="80%"/>
 </p>
 <p>
-Next i created the SYS Admin department for the higher priveleged agents. Agents in this department are responsible for maintaining superb client experiences and resolving support tickets in a timely manner and assigning tickets to agents.
+Next i created the System Administration department for the agents with elevated privelages. Agents in this department are responsible for maintaining superb client experiences and resolving support tickets in a timely manner.
 </p>
 <br />
 
